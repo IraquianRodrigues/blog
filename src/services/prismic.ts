@@ -1,4 +1,4 @@
-import Prismic from '@prismicio/client'
+import Prismic from '@prismicio/client';
 
 // configurando o nosso prismic
 export function getPrismicClient(req?: unknown){
